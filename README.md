@@ -1,2 +1,2 @@
-# crypto-app
+# PomoDoro App
 Helix Hackathon 2021 Submission
