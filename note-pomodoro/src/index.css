@@ -19,7 +19,7 @@ code {
 }
 
 .dark-mode {
-	background-color: black;
+	background-color: #1e212d;
 }
 
 .dark-mode h1 {
@@ -108,4 +108,13 @@ textarea:focus {
 
 .search input:focus {
 	outline: none;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.pomodoro{
+	align-items: center;
+	color: #e67cbd;
 }
