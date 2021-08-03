@@ -2,6 +2,7 @@
 Helix Hackathon 2021 Submission
 
 # Getting Started with Create React App
+![Screen Shot 2021-08-01 at 10 04 50 AM](https://user-images.githubusercontent.com/78511893/128050041-7d9dede1-7968-4fd0-9d42-331a205476cf.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
